@@ -1,0 +1,23 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: column;
+
+}
+
+span{
+    color: rgb(173, 82, 29);
+}   
+
+.title{
+    margin-top: 3rem;
+}
+
+.btn{
+    margin-top: 1rem;
+}
+.form{
+    margin-top: 3rem;
+}
